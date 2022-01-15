@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import '@dydxprotocol/v3-client';
+
 
 function App() {
   return (
